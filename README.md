@@ -159,7 +159,7 @@ Universidad Católica de Santiago de Guayaquil
 
 ---
 
-🧪 What I’m Currently Working On
+## 🧪 What I’m Currently Working On
 
 - Building end-to-end data pipelines for healthcare analytics
 - Expanding machine learning portfolio projects
