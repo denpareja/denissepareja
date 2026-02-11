@@ -55,7 +55,7 @@ I’m a Data Scientist with a strong background in healthcare and global health 
 - Identified BMI, age, and smoking status as the most influential drivers of insurance costs.
 - Validated model performance using cross-validation to ensure reliable generalization.
 - **Impact:** Delivered a predictive analytics model that accurately estimated healthcare insurance costs (R² = 0.86), enabling data-driven identification of key financial risk factors.
-🔗 Repository: https://github.com/denpareja/insurance-claims-analytics
+- 🔗 Repository: https://github.com/denpareja/insurance-claims-analytics
 
 ---
 
@@ -68,7 +68,7 @@ I’m a Data Scientist with a strong background in healthcare and global health 
 - Developed a structured evaluation pipeline to ensure reproducibility and reliable predictions.
 - Generated actionable insights to support HR retention strategies and workforce planning.
 - **Impact:** Enabled data-driven workforce retention strategies by predicting employee attrition risk using machine learning and AUC-ROC performance metrics.
-🔗 Repository: https://github.com/denpareja/people-analytics-employee-churn
+- 🔗 Repository: https://github.com/denpareja/people-analytics-employee-churn
 
 ---
 
@@ -81,7 +81,7 @@ I’m a Data Scientist with a strong background in healthcare and global health 
 - Standardized reporting metrics to enable consistent performance monitoring.
 - Created reusable datasets and visualizations to support strategic decision-making.
 - **Impact:** Standardized healthcare operational KPIs and transformed raw data into structured analytics, enabling faster reporting and data-driven decision-making across clinical programs.
-🔗 Repository: https://github.com/denpareja/healthcare-operations-impact
+- 🔗 Repository: https://github.com/denpareja/healthcare-operations-impact
 
 ---
 
@@ -93,7 +93,7 @@ I’m a Data Scientist with a strong background in healthcare and global health 
 - Implemented user-friendly filters to support healthier food decision-making.
 - Designed an accessible interface using Streamlit for real-time data interaction.
 - **Impact:** Enabled data-driven nutritional decision-making by developing an interactive analytics app that allows users to explore and compare menu items through real-time visualizations.
-🔗 Repository: https://github.com/denpareja/mcdonalds-nutrition-app
+- 🔗 Repository: https://github.com/denpareja/mcdonalds-nutrition-app
 
 ---
 
@@ -106,7 +106,7 @@ I’m a Data Scientist with a strong background in healthcare and global health 
 - Designed a polished web interface using Dash/Plotly for intuitive data interaction and exploration.
 - Enabled users to identify trends and performance variations across seasons and statistical categories.
 - **Impact:** Delivered a user-centric interactive dashboard that enables real-time exploration and comparison of baseball performance data, turning raw statistics into actionable, visual insights.
-🔗 Repository: https://github.com/denpareja/Baseball_Performance_Dashboard
+- 🔗 Repository: https://github.com/denpareja/Baseball_Performance_Dashboard
 
 ---
 
@@ -118,7 +118,7 @@ I’m a Data Scientist with a strong background in healthcare and global health 
 - Analyzed returns, cumulative performance, and trade outcomes to assess strategy effectiveness.
 - Compared model results against baseline “hold” performance to illustrate value of signal-based trading.
 - **Impact:** Built a quantitative backtesting pipeline for moving average crossover strategy that enables evaluation of trading signals and performance metrics to inform data-driven investment decisions.
-🔗 Repository: https://github.com/denpareja/moving-average-crossover-backtest
+- 🔗 Repository: https://github.com/denpareja/moving-average-crossover-backtest
 
 ---
 
@@ -131,7 +131,7 @@ I’m a Data Scientist with a strong background in healthcare and global health 
 - Implemented simulation logic and compared phase behavior across different indicators
 - Visualized time series components to support interpretation of economic fluctuations
 - **Impact:** Created a time series simulation model to analyze business cycle dynamics and support data-driven interpretation of macroeconomic indicator behavior over time.
-🔗 Repository: https://github.com/denpareja/business-cycle-simulation
+- 🔗 Repository: https://github.com/denpareja/business-cycle-simulation
 
 ---
 
