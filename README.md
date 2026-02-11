@@ -1,9 +1,9 @@
-# denissepareja
+# Denisse Pareja
 Data Scientist | Healthcare Analytics | Python, SQL, Machine Learning
 
 # Hi! I’m Denisse Pareja 👋
 
-### Data Scientist & Healthcare Data Analyst
+### Data Scientist | Healthcare Analytics & Machine Learning
 
 I’m a Data Scientist with a strong background in healthcare and global health operations, focused on transforming complex data into actionable insights, predictive models, and dashboards that support data-driven decision making.
 
@@ -30,8 +30,6 @@ I’m a Data Scientist with a strong background in healthcare and global health 
 - ETL Processes
 
 **Data Visualization**
-- Tableau  
-- Power BI  
 - Matplotlib / Seaborn  
 - KPI Dashboards
 - Streamlit  
@@ -45,6 +43,19 @@ I’m a Data Scientist with a strong background in healthcare and global health 
 ---
 
 ## 📂 Featured Projects
+
+### 📌 Healthcare Operations Impact Analytics
+**Technologies:** Python, Pandas, Data Analysis, KPI Engineering, Data Visualization
+- Developed an analytics framework to evaluate operational performance in a healthcare setting.
+- Integrated multiple raw datasets into structured tables for analysis and reporting.
+- Designed and calculated key performance indicators (KPIs) to measure efficiency, utilization, and impact per encounter.
+- Performed exploratory data analysis to identify trends across specialties and insurance payers.
+- Standardized reporting metrics to enable consistent performance monitoring.
+- Created reusable datasets and visualizations to support strategic decision-making.
+- **Impact:** Standardized healthcare operational KPIs and transformed raw data into structured analytics, enabling faster reporting and data-driven decision-making across clinical programs.
+- 🔗 Repository: https://github.com/denpareja/healthcare-operations-impact
+
+---
 
 ### 📌 Claims Analytics and Cost Prediction
 **Technologies:** Python, Pandas, NumPy, Scikit-learn, Machine Learning
@@ -69,19 +80,6 @@ I’m a Data Scientist with a strong background in healthcare and global health 
 - Generated actionable insights to support HR retention strategies and workforce planning.
 - **Impact:** Enabled data-driven workforce retention strategies by predicting employee attrition risk using machine learning and AUC-ROC performance metrics.
 - 🔗 Repository: https://github.com/denpareja/people-analytics-employee-churn
-
----
-
-### 📌 Healthcare Operations Impact Analytics
-**Technologies:** Python, Pandas, Data Analysis, KPI Engineering, Data Visualization
-- Developed an analytics framework to evaluate operational performance in a healthcare setting.
-- Integrated multiple raw datasets into structured tables for analysis and reporting.
-- Designed and calculated key performance indicators (KPIs) to measure efficiency, utilization, and impact per encounter.
-- Performed exploratory data analysis to identify trends across specialties and insurance payers.
-- Standardized reporting metrics to enable consistent performance monitoring.
-- Created reusable datasets and visualizations to support strategic decision-making.
-- **Impact:** Standardized healthcare operational KPIs and transformed raw data into structured analytics, enabling faster reporting and data-driven decision-making across clinical programs.
-- 🔗 Repository: https://github.com/denpareja/healthcare-operations-impact
 
 ---
 
