@@ -1,17 +1,16 @@
 # denissepareja
-Data Scientist &amp; Healthcare Data Analyst | Python, SQL, Dashboards &amp; Analytics Portfolio
+Data Scientist | Healthcare Analytics | Python, SQL, Machine Learning
 
 # Hi! I’m Denisse Pareja 👋
 
 ### Data Scientist & Healthcare Data Analyst
 
-I’m a Data Scientist with a strong background in healthcare and global health operations, focused on transforming complex data into actionable insights that drive better decisions and measurable impact.
+I’m a Data Scientist with a strong background in healthcare and global health operations, focused on transforming complex data into actionable insights, predictive models, and dashboards that support data-driven decision making.
 
 ---
 
 ## 🔍 About Me
 
-- 🎯 I am a Data Scientist with a strong background in healthcare, focused on transforming complex data into actionable insights that drive better decisions and measurable impact.
 - 📊 Passionate about using data to improve healthcare operations and outcomes  
 - 🧠 Strong background in research, analytics, and structured problem-solving  
 - 💻 Experienced with Python, SQL, and data visualization tools  
@@ -25,7 +24,7 @@ I’m a Data Scientist with a strong background in healthcare and global health 
 - Python (Pandas, NumPy, Scikit-learn)
 - SQL
 - Exploratory Data Analysis (EDA)
-- Machine Learning basics
+- Machine Learning (Supervised Models, Evaluation Metrics)
 - Data Cleaning & Preprocessing
 - Statistics & Hypothesis Testing
 - ETL Processes
@@ -99,6 +98,15 @@ Universidad Católica de Santiago de Guayaquil
 - Business Intelligence
 - Operations Optimization
 - Data-Driven Decision Making
+
+---
+
+🧪 What I’m Currently Working On
+
+- Building end-to-end data pipelines for healthcare analytics
+- Expanding machine learning portfolio projects
+- Developing Streamlit dashboards for real-world datasets
+- Strengthening SQL and advanced analytics skills
 
 ---
 
